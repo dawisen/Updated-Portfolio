@@ -1,0 +1,43 @@
+img.project-img {
+    max-width: 558px;
+    max-height: 398.56px;
+}
+
+/* img.project-two {
+    height: 398px;
+    width:
+} */
+
+.masthead {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 1) 0%, #0dafa4 75%, rgb(0 0 0) 100%), url(../assets/img/bg-masthead.jpg);
+}
+
+.masthead h1 {
+    background: linear-gradient(#f8f9fa, #212529b3);
+    -webkit-text-fill-color: #dee2e65c;
+    -webkit-background-clip: text;
+    background-clip: text;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #212529;
+}
+
+.h-100-p1 {
+    height: 100% !important;
+    border-radius: 0px 21px 21px 0px;
+    }
+
+.h-100-p2 {
+    height: 100% !important;
+    border-radius: 21px 0px 0px 21px;
+}
+
+.signup-section {
+    background: linear-gradient(to bottom, #0dafa4 0%, #0dafa4 9%, #000000 100%), url(../assets/img/bg-signup.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}
